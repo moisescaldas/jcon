@@ -13,6 +13,14 @@
   <name>jcon</name>
   <description>Java API for the Minecraft RCON protocol</description>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub moisescaldas Apache Maven Packages</name>
+      <url>https://github.com/moisescaldas/jcon</url>
+    </repository>
+ </distributionManagement>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
