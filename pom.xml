@@ -17,7 +17,7 @@
     <repository>
       <id>github</id>
       <name>GitHub moisescaldas Apache Maven Packages</name>
-      <url>https://github.com/moisescaldas/jcon</url>
+      <url>https://maven.pkg.github.com/moisescaldas/jcon</url>
     </repository>
  </distributionManagement>
 
